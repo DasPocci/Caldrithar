@@ -2,25 +2,43 @@
 <html lang="en">
 <head>
   <meta charset="utf-8" />
-  <title>Caldrithar</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Caldrithar</title>
+  <meta name="description" content="The Caldrithar project — a worldbuilding archive.">
   <style>
-    html, body { height: 100%; margin: 0; }
-    .layout { display: grid; grid-template-columns: 1fr 3fr; height: 100vh; }
-    nav { padding: 12px; border-right: 1px solid #ccc; }
-    iframe { width: 100%; height: 100%; border: 0; }
-    a { display:block; margin: 6px 0; }
+    html, body { height: 100%; margin: 0; font-family: sans-serif; }
+    .layout { display: grid; grid-template-columns: 200px 1fr; height: 100vh; }
+    nav {
+      background: #f2f2f2;
+      border-right: 1px solid #ccc;
+      padding: 1rem;
+    }
+    main {
+      padding: 1rem;
+      overflow-y: auto;
+    }
+    nav h1 { font-size: 1.2rem; margin-top: 0; }
+    nav a { display: block; color: #333; text-decoration: none; margin: .5rem 0; }
+    nav a:hover { text-decoration: underline; }
+    footer { text-align: center; font-size: .8rem; margin-top: 2rem; color: #777; }
   </style>
 </head>
 <body>
   <div class="layout">
     <nav>
       <h1>Caldrithar</h1>
-      <a href="Caldrithar.html" target="detail">Home</a>
-      <a href="navigation.html" target="detail">Index</a>
-      <!-- add more links that target="detail" -->
+      <a href="Caldrithar.html">Home</a>
+      <a href="navigation.html">Index</a>
     </nav>
-    <iframe name="detail" src="Caldrithar.html" title="Caldrithar content"></iframe>
+
+    <main>
+      <h2>CGPTDnD - Caldrithar</h2>
+      <p>Testing CGPT as a DnD World Builder Tool</p>
+      <p>Inside you will find poorly generated AI characters, factions, lore, documents, etc. This is just a test. блядь</p>
+      <footer>
+        Иди нахуй
+      </footer>
+    </main>
   </div>
 </body>
 </html>

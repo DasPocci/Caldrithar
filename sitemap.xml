@@ -1,127 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://daspocci.github.io/Caldrithar/</loc><lastmod>2025-10-16</lastmod></url>
 
+  <url><loc>https://daspocci.github.io/Caldrithar/Caldrithar/Characters.html</loc><lastmod>2025-10-16</lastmod></url>
+  <url><loc>https://daspocci.github.io/Caldrithar/Caldrithar/Characters/Seraphyne%20Vexmoor.html</loc><lastmod>2025-10-16</lastmod></url>
+  <url><loc>https://daspocci.github.io/Caldrithar/Caldrithar/Characters/Seraphyne%20Vexmoor/Combat%20Quick-Reference.html</loc><lastmod>2025-10-16</lastmod></url>
+  <url><loc>https://daspocci.github.io/Caldrithar/Caldrithar/Characters/Seraphyne%20Vexmoor/Lore.html</loc><lastmod>2025-10-16</lastmod></url>
 
-<url>
-  <loc>https://daspocci.github.io/Caldrithar/</loc>
-  <lastmod>2025-10-16T21:33:00+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://daspocci.github.io/Caldrithar/navigation.html</loc>
-  <lastmod>2025-10-16T21:33:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://daspocci.github.io/Caldrithar/Caldrithar.html</loc>
-  <lastmod>2025-10-16T21:33:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://daspocci.github.io/Caldrithar/Caldrithar/Characters.html</loc>
-  <lastmod>2025-10-16T21:33:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://daspocci.github.io/Caldrithar/Caldrithar/Characters/Seraphyne%20Vexmoor.html</loc>
-  <lastmod>2025-10-16T21:33:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://daspocci.github.io/Caldrithar/Caldrithar/Characters/Seraphyne%20Vexmoor/Combat%20Quick-Reference.html</loc>
-  <lastmod>2025-10-16T21:33:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://daspocci.github.io/Caldrithar/Caldrithar/Characters/Seraphyne%20Vexmoor/Lore.html</loc>
-  <lastmod>2025-10-16T21:33:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://daspocci.github.io/Caldrithar/Caldrithar/Characters/Thornspeaker%20Vaelith.html</loc>
-  <lastmod>2025-10-16T21:33:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://daspocci.github.io/Caldrithar/Caldrithar/Characters/Thornspeaker%20Vaelith/Lore.html</loc>
-  <lastmod>2025-10-16T21:33:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://daspocci.github.io/Caldrithar/Caldrithar/Characters/Merek%20Ardyn.html</loc>
-  <lastmod>2025-10-16T21:33:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://daspocci.github.io/Caldrithar/Caldrithar/Characters/Merek%20Ardyn/Lore.html</loc>
-  <lastmod>2025-10-16T21:33:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://daspocci.github.io/Caldrithar/Caldrithar/Characters/Sister%20Virelle.html</loc>
-  <lastmod>2025-10-16T21:33:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://daspocci.github.io/Caldrithar/Caldrithar/Characters/Ashscribe%20Telmon.html</loc>
-  <lastmod>2025-10-16T21:33:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://daspocci.github.io/Caldrithar/Caldrithar/Factions.html</loc>
-  <lastmod>2025-10-16T21:33:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://daspocci.github.io/Caldrithar/Caldrithar/Factions/The%20Weavebound%20Accord.html</loc>
-  <lastmod>2025-10-16T21:33:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://daspocci.github.io/Caldrithar/Caldrithar/Factions/The%20Weavebound%20Accord/Members.html</loc>
-  <lastmod>2025-10-16T21:33:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://daspocci.github.io/Caldrithar/Caldrithar/Factions/The%20Weavebound%20Accord/Documents.html</loc>
-  <lastmod>2025-10-16T21:33:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://daspocci.github.io/Caldrithar/Caldrithar/Factions/The%20Weavebound%20Accord/Documents/Seraphyne%20Vexmoor%20Dossier.html</loc>
-  <lastmod>2025-10-16T21:33:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://daspocci.github.io/Caldrithar/Caldrithar/Factions/The%20Dawn%20Tribunal.html</loc>
-  <lastmod>2025-10-16T21:33:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://daspocci.github.io/Caldrithar/Caldrithar/Factions/The%20Dawn%20Tribunal/Members.html</loc>
-  <lastmod>2025-10-16T21:33:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://daspocci.github.io/Caldrithar/Caldrithar/Factions/The%20Dawn%20Tribunal/Documents.html</loc>
-  <lastmod>2025-10-16T21:33:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://daspocci.github.io/Caldrithar/Caldrithar/Factions/The%20Dawn%20Tribunal/Documents/Purge%20Ledger%20Entry.html</loc>
-  <lastmod>2025-10-16T21:33:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://daspocci.github.io/Caldrithar/Caldrithar/Factions/The%20Dawn%20Tribunal/Documents/The%20Sealed%20Flame%20Prophecy.html</loc>
-  <lastmod>2025-10-16T21:33:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
+  <url><loc>https://daspocci.github.io/Caldrithar/Caldrithar/Characters/Thornspeaker%20Vaelith.html</loc><lastmod>2025-10-16</lastmod></url>
+  <url><loc>https://daspocci.github.io/Caldrithar/Caldrithar/Characters/Thornspeaker%20Vaelith/Lore.html</loc><lastmod>2025-10-16</lastmod></url>
 
+  <url><loc>https://daspocci.github.io/Caldrithar/Caldrithar/Characters/Merek%20Ardyn.html</loc><lastmod>2025-10-16</lastmod></url>
+  <url><loc>https://daspocci.github.io/Caldrithar/Caldrithar/Characters/Merek%20Ardyn/Lore.html</loc><lastmod>2025-10-16</lastmod></url>
 
+  <url><loc>https://daspocci.github.io/Caldrithar/Caldrithar/Characters/Sister%20Virelle.html</loc><lastmod>2025-10-16</lastmod></url>
+  <url><loc>https://daspocci.github.io/Caldrithar/Caldrithar/Characters/Ashscribe%20Telmon.html</loc><lastmod>2025-10-16</lastmod></url>
+
+  <url><loc>https://daspocci.github.io/Caldrithar/Caldrithar/Factions.html</loc><lastmod>2025-10-16</lastmod></url>
+  <url><loc>https://daspocci.github.io/Caldrithar/Caldrithar/Factions/The%20Weavebound%20Accord.html</loc><lastmod>2025-10-16</lastmod></url>
+  <url><loc>https://daspocci.github.io/Caldrithar/Caldrithar/Factions/The%20Weavebound%20Accord/Members.html</loc><lastmod>2025-10-16</lastmod></url>
+  <url><loc>https://daspocci.github.io/Caldrithar/Caldrithar/Factions/The%20Weavebound%20Accord/Documents.html</loc><lastmod>2025-10-16</lastmod></url>
+  <url><loc>https://daspocci.github.io/Caldrithar/Caldrithar/Factions/The%20Weavebound%20Accord/Documents/Seraphyne%20Vexmoor%20Dossier.html</loc><lastmod>2025-10-16</lastmod></url>
+
+  <url><loc>https://daspocci.github.io/Caldrithar/Caldrithar/Factions/The%20Dawn%20Tribunal.html</loc><lastmod>2025-10-16</lastmod></url>
+  <url><loc>https://daspocci.github.io/Caldrithar/Caldrithar/Factions/The%20Dawn%20Tribunal/Members.html</loc><lastmod>2025-10-16</lastmod></url>
+  <url><loc>https://daspocci.github.io/Caldrithar/Caldrithar/Factions/The%20Dawn%20Tribunal/Documents.html</loc><lastmod>2025-10-16</lastmod></url>
+  <url><loc>https://daspocci.github.io/Caldrithar/Caldrithar/Factions/The%20Dawn%20Tribunal/Documents/Purge%20Ledger%20Entry.html</loc><lastmod>2025-10-16</lastmod></url>
+  <url><loc>https://daspocci.github.io/Caldrithar/Caldrithar/Factions/The%20Dawn%20Tribunal/Documents/The%20Sealed%20Flame%20Prophecy.html</loc><lastmod>2025-10-16</lastmod></url>
 </urlset>

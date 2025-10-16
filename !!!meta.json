@@ -1,0 +1,1341 @@
+{
+	"formatVersion": 2,
+	"appVersion": "0.99.1",
+	"files": [
+		{
+			"isClone": false,
+			"noteId": "RgUxxYAOSk3d",
+			"notePath": [
+				"RgUxxYAOSk3d"
+			],
+			"title": "Caldrithar",
+			"notePosition": 40,
+			"prefix": null,
+			"isExpanded": true,
+			"type": "text",
+			"mime": "text/html",
+			"attributes": [
+				{
+					"type": "label",
+					"name": "iconClass",
+					"value": "bx bx-world",
+					"isInheritable": false,
+					"position": 10
+				},
+				{
+					"type": "label",
+					"name": "mapType",
+					"value": "link",
+					"isInheritable": false,
+					"position": 20
+				},
+				{
+					"type": "relation",
+					"name": "internalLink",
+					"value": "QY7ZekhQsFga",
+					"isInheritable": false,
+					"position": 40
+				},
+				{
+					"type": "relation",
+					"name": "internalLink",
+					"value": "vujfY83hZvrm",
+					"isInheritable": false,
+					"position": 50
+				}
+			],
+			"format": "html",
+			"dataFileName": "Caldrithar.html",
+			"attachments": [],
+			"dirFileName": "Caldrithar",
+			"children": [
+				{
+					"isClone": false,
+					"noteId": "vujfY83hZvrm",
+					"notePath": [
+						"RgUxxYAOSk3d",
+						"vujfY83hZvrm"
+					],
+					"title": "Characters",
+					"notePosition": 10,
+					"prefix": null,
+					"isExpanded": true,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [
+						{
+							"type": "label",
+							"name": "mapType",
+							"value": "tree",
+							"isInheritable": false,
+							"position": 10
+						},
+						{
+							"type": "label",
+							"name": "iconClass",
+							"value": "bx bx-face",
+							"isInheritable": false,
+							"position": 20
+						},
+						{
+							"type": "relation",
+							"name": "internalLink",
+							"value": "x58y0lZWU6Nu",
+							"isInheritable": false,
+							"position": 40
+						},
+						{
+							"type": "relation",
+							"name": "internalLink",
+							"value": "8tmob2NcPI2d",
+							"isInheritable": false,
+							"position": 50
+						},
+						{
+							"type": "relation",
+							"name": "internalLink",
+							"value": "Ge57Ox25z3GZ",
+							"isInheritable": false,
+							"position": 60
+						},
+						{
+							"type": "relation",
+							"name": "internalLink",
+							"value": "gAOxO8ialGq4",
+							"isInheritable": false,
+							"position": 70
+						},
+						{
+							"type": "relation",
+							"name": "internalLink",
+							"value": "FY6sq5zrsRdG",
+							"isInheritable": false,
+							"position": 80
+						},
+						{
+							"type": "relation",
+							"name": "internalLink",
+							"value": "RgUxxYAOSk3d",
+							"isInheritable": false,
+							"position": 90
+						}
+					],
+					"format": "html",
+					"dataFileName": "Characters.html",
+					"attachments": [],
+					"dirFileName": "Characters",
+					"children": [
+						{
+							"isClone": false,
+							"noteId": "x58y0lZWU6Nu",
+							"notePath": [
+								"RgUxxYAOSk3d",
+								"vujfY83hZvrm",
+								"x58y0lZWU6Nu"
+							],
+							"title": "Seraphyne Vexmoor",
+							"notePosition": 10,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "isCharacterOf",
+									"value": "RgUxxYAOSk3d",
+									"isInheritable": false,
+									"position": 10
+								},
+								{
+									"type": "relation",
+									"name": "isMentionedIn",
+									"value": "sWGatux3UBAG",
+									"isInheritable": false,
+									"position": 20
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "mKYbmaZI0TyM",
+									"isInheritable": false,
+									"position": 40
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "sWGatux3UBAG",
+									"isInheritable": false,
+									"position": 50
+								},
+								{
+									"type": "relation",
+									"name": "isMentionedIn",
+									"value": "mKYbmaZI0TyM",
+									"isInheritable": false,
+									"position": 30
+								},
+								{
+									"type": "relation",
+									"name": "isMentionedIn",
+									"value": "Va9ZTXhpOMQs",
+									"isInheritable": false,
+									"position": 40
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "vujfY83hZvrm",
+									"isInheritable": false,
+									"position": 60
+								}
+							],
+							"format": "html",
+							"dataFileName": "Seraphyne Vexmoor.html",
+							"attachments": [
+								{
+									"attachmentId": "hE8Wby5NCO5W",
+									"title": "image.jpg",
+									"role": "image",
+									"mime": "image/jpg",
+									"position": 10,
+									"dataFileName": "Seraphyne Vexmoor_image.jpg"
+								}
+							],
+							"dirFileName": "Seraphyne Vexmoor",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "S5VkH9Ie6k9u",
+									"notePath": [
+										"RgUxxYAOSk3d",
+										"vujfY83hZvrm",
+										"x58y0lZWU6Nu",
+										"S5VkH9Ie6k9u"
+									],
+									"title": "Combat Quick-Reference",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "iconClass",
+											"value": "bx bx-knife",
+											"isInheritable": false,
+											"position": 10
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "x58y0lZWU6Nu",
+											"isInheritable": false,
+											"position": 20
+										}
+									],
+									"format": "html",
+									"dataFileName": "Combat Quick-Reference.html",
+									"attachments": []
+								},
+								{
+									"isClone": false,
+									"noteId": "BE112o4e20kY",
+									"notePath": [
+										"RgUxxYAOSk3d",
+										"vujfY83hZvrm",
+										"x58y0lZWU6Nu",
+										"BE112o4e20kY"
+									],
+									"title": "Lore",
+									"notePosition": 20,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "iconClass",
+											"value": "bx bx-book-reader",
+											"isInheritable": false,
+											"position": 10
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "x58y0lZWU6Nu",
+											"isInheritable": false,
+											"position": 20
+										}
+									],
+									"format": "html",
+									"dataFileName": "Lore.html",
+									"attachments": []
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "8tmob2NcPI2d",
+							"notePath": [
+								"RgUxxYAOSk3d",
+								"vujfY83hZvrm",
+								"8tmob2NcPI2d"
+							],
+							"title": "Thornspeaker Vaelith",
+							"notePosition": 20,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "pjyIk3SWl3YR",
+									"isInheritable": false,
+									"position": 10
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "sWGatux3UBAG",
+									"isInheritable": false,
+									"position": 20
+								},
+								{
+									"type": "relation",
+									"name": "isCharacterOf",
+									"value": "RgUxxYAOSk3d",
+									"isInheritable": false,
+									"position": 10
+								},
+								{
+									"type": "relation",
+									"name": "isMemberOf",
+									"value": "pjyIk3SWl3YR",
+									"isInheritable": false,
+									"position": 20
+								},
+								{
+									"type": "relation",
+									"name": "isAuthorOf",
+									"value": "sWGatux3UBAG",
+									"isInheritable": false,
+									"position": 30
+								},
+								{
+									"type": "label",
+									"name": "relation:isAuthorOf",
+									"value": "single,inverse=hasAuthor",
+									"isInheritable": false,
+									"position": 40
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "vujfY83hZvrm",
+									"isInheritable": false,
+									"position": 50
+								}
+							],
+							"format": "html",
+							"dataFileName": "Thornspeaker Vaelith.html",
+							"attachments": [
+								{
+									"attachmentId": "fHnAVCRdx8Dr",
+									"title": "image.jpg",
+									"role": "image",
+									"mime": "image/jpg",
+									"position": 10,
+									"dataFileName": "Thornspeaker Vaelith_image.jpg"
+								}
+							],
+							"dirFileName": "Thornspeaker Vaelith",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "gd2HI8kcX0mr",
+									"notePath": [
+										"RgUxxYAOSk3d",
+										"vujfY83hZvrm",
+										"8tmob2NcPI2d",
+										"gd2HI8kcX0mr"
+									],
+									"title": "Lore",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "iconClass",
+											"value": "bx bx-book-reader",
+											"isInheritable": false,
+											"position": 10
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "8tmob2NcPI2d",
+											"isInheritable": false,
+											"position": 20
+										}
+									],
+									"format": "html",
+									"dataFileName": "Lore.html",
+									"attachments": []
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "Ge57Ox25z3GZ",
+							"notePath": [
+								"RgUxxYAOSk3d",
+								"vujfY83hZvrm",
+								"Ge57Ox25z3GZ"
+							],
+							"title": "Merek Ardyn",
+							"notePosition": 30,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "x58y0lZWU6Nu",
+									"isInheritable": false,
+									"position": 20
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "vEqMUrGzdt9d",
+									"isInheritable": false,
+									"position": 30
+								},
+								{
+									"type": "relation",
+									"name": "isCharacterOf",
+									"value": "RgUxxYAOSk3d",
+									"isInheritable": false,
+									"position": 40
+								},
+								{
+									"type": "relation",
+									"name": "isMemberOf",
+									"value": "vEqMUrGzdt9d",
+									"isInheritable": false,
+									"position": 50
+								},
+								{
+									"type": "relation",
+									"name": "isMentionedIn",
+									"value": "mKYbmaZI0TyM",
+									"isInheritable": false,
+									"position": 60
+								},
+								{
+									"type": "relation",
+									"name": "isGuildmateOf",
+									"value": "gAOxO8ialGq4",
+									"isInheritable": false,
+									"position": 70
+								},
+								{
+									"type": "relation",
+									"name": "isGuildmateOf",
+									"value": "FY6sq5zrsRdG",
+									"isInheritable": false,
+									"position": 80
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "vujfY83hZvrm",
+									"isInheritable": false,
+									"position": 90
+								}
+							],
+							"format": "html",
+							"dataFileName": "Merek Ardyn.html",
+							"attachments": [
+								{
+									"attachmentId": "UdjFFf3eXtFo",
+									"title": "image.jpg",
+									"role": "image",
+									"mime": "image/jpg",
+									"position": 10,
+									"dataFileName": "Merek Ardyn_image.jpg"
+								}
+							],
+							"dirFileName": "Merek Ardyn",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "8bL07zUw6A5X",
+									"notePath": [
+										"RgUxxYAOSk3d",
+										"vujfY83hZvrm",
+										"Ge57Ox25z3GZ",
+										"8bL07zUw6A5X"
+									],
+									"title": "Lore",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "iconClass",
+											"value": "bx bx-book-reader",
+											"isInheritable": false,
+											"position": 10
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "Ge57Ox25z3GZ",
+											"isInheritable": false,
+											"position": 20
+										}
+									],
+									"format": "html",
+									"dataFileName": "Lore.html",
+									"attachments": []
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "gAOxO8ialGq4",
+							"notePath": [
+								"RgUxxYAOSk3d",
+								"vujfY83hZvrm",
+								"gAOxO8ialGq4"
+							],
+							"title": "Sister Virelle",
+							"notePosition": 40,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "vEqMUrGzdt9d",
+									"isInheritable": false,
+									"position": 20
+								},
+								{
+									"type": "relation",
+									"name": "isGuildmateOf",
+									"value": "FY6sq5zrsRdG",
+									"isInheritable": false,
+									"position": 10
+								},
+								{
+									"type": "label",
+									"name": "relation:isGuildmateOf",
+									"value": "single,inverse=isGuildmateOf",
+									"isInheritable": false,
+									"position": 20
+								},
+								{
+									"type": "relation",
+									"name": "isGuildmateOf",
+									"value": "Ge57Ox25z3GZ",
+									"isInheritable": false,
+									"position": 30
+								},
+								{
+									"type": "relation",
+									"name": "isCharacterOf",
+									"value": "RgUxxYAOSk3d",
+									"isInheritable": false,
+									"position": 40
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "Va9ZTXhpOMQs",
+									"isInheritable": false,
+									"position": 50
+								},
+								{
+									"type": "relation",
+									"name": "isAuthorOf",
+									"value": "Va9ZTXhpOMQs",
+									"isInheritable": false,
+									"position": 60
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "vujfY83hZvrm",
+									"isInheritable": false,
+									"position": 70
+								}
+							],
+							"format": "html",
+							"dataFileName": "Sister Virelle.html",
+							"attachments": [
+								{
+									"attachmentId": "MdRkLotvWudg",
+									"title": "image.jpg",
+									"role": "image",
+									"mime": "image/jpg",
+									"position": 10,
+									"dataFileName": "Sister Virelle_image.jpg"
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "FY6sq5zrsRdG",
+							"notePath": [
+								"RgUxxYAOSk3d",
+								"vujfY83hZvrm",
+								"FY6sq5zrsRdG"
+							],
+							"title": "Ashscribe Telmon",
+							"notePosition": 50,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "vEqMUrGzdt9d",
+									"isInheritable": false,
+									"position": 20
+								},
+								{
+									"type": "relation",
+									"name": "isGuildmateOf",
+									"value": "gAOxO8ialGq4",
+									"isInheritable": false,
+									"position": 30
+								},
+								{
+									"type": "relation",
+									"name": "isGuildmateOf",
+									"value": "Ge57Ox25z3GZ",
+									"isInheritable": false,
+									"position": 40
+								},
+								{
+									"type": "relation",
+									"name": "isCharacterOf",
+									"value": "RgUxxYAOSk3d",
+									"isInheritable": false,
+									"position": 50
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "vujfY83hZvrm",
+									"isInheritable": false,
+									"position": 60
+								}
+							],
+							"format": "html",
+							"dataFileName": "Ashscribe Telmon.html",
+							"attachments": [
+								{
+									"attachmentId": "EmPUY5QmwMig",
+									"title": "image.jpg",
+									"role": "image",
+									"mime": "image/jpg",
+									"position": 10,
+									"dataFileName": "Ashscribe Telmon_image.jpg"
+								}
+							]
+						}
+					]
+				},
+				{
+					"isClone": false,
+					"noteId": "QY7ZekhQsFga",
+					"notePath": [
+						"RgUxxYAOSk3d",
+						"QY7ZekhQsFga"
+					],
+					"title": "Factions",
+					"notePosition": 20,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [
+						{
+							"type": "label",
+							"name": "iconClass",
+							"value": "bx bxs-castle",
+							"isInheritable": false,
+							"position": 10
+						},
+						{
+							"type": "relation",
+							"name": "internalLink",
+							"value": "pjyIk3SWl3YR",
+							"isInheritable": false,
+							"position": 30
+						},
+						{
+							"type": "relation",
+							"name": "internalLink",
+							"value": "vEqMUrGzdt9d",
+							"isInheritable": false,
+							"position": 40
+						},
+						{
+							"type": "relation",
+							"name": "internalLink",
+							"value": "RgUxxYAOSk3d",
+							"isInheritable": false,
+							"position": 50
+						}
+					],
+					"format": "html",
+					"dataFileName": "Factions.html",
+					"attachments": [],
+					"dirFileName": "Factions",
+					"children": [
+						{
+							"isClone": false,
+							"noteId": "pjyIk3SWl3YR",
+							"notePath": [
+								"RgUxxYAOSk3d",
+								"QY7ZekhQsFga",
+								"pjyIk3SWl3YR"
+							],
+							"title": "The Weavebound Accord",
+							"notePosition": 10,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "isFactionOf",
+									"value": "RgUxxYAOSk3d",
+									"isInheritable": false,
+									"position": 10
+								},
+								{
+									"type": "label",
+									"name": "mapType",
+									"value": "tree",
+									"isInheritable": false,
+									"position": 20
+								},
+								{
+									"type": "relation",
+									"name": "hasDocumentof",
+									"value": "sWGatux3UBAG",
+									"isInheritable": false,
+									"position": 30
+								},
+								{
+									"type": "label",
+									"name": "iconClass",
+									"value": "bx bx-low-vision",
+									"isInheritable": false,
+									"position": 40
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "4pdrz0Q4HDVW",
+									"isInheritable": false,
+									"position": 80
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "HW5B81zPGjWv",
+									"isInheritable": false,
+									"position": 90
+								},
+								{
+									"type": "relation",
+									"name": "hasMember",
+									"value": "8tmob2NcPI2d",
+									"isInheritable": false,
+									"position": 50
+								},
+								{
+									"type": "label",
+									"name": "relation:hasMember",
+									"value": "single,inverse=isMemberOf",
+									"isInheritable": false,
+									"position": 60
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "QY7ZekhQsFga",
+									"isInheritable": false,
+									"position": 100
+								}
+							],
+							"format": "html",
+							"dataFileName": "The Weavebound Accord.html",
+							"attachments": [
+								{
+									"attachmentId": "lwmHgnpKX7HV",
+									"title": "image.jpg",
+									"role": "image",
+									"mime": "image/jpg",
+									"position": 10,
+									"dataFileName": "The Weavebound Accord_imag.jpg"
+								},
+								{
+									"attachmentId": "VniaKq3iJe4K",
+									"title": "image.jpg",
+									"role": "image",
+									"mime": "image/jpg",
+									"position": 10,
+									"dataFileName": "1_The Weavebound Accord_imag.jpg"
+								},
+								{
+									"attachmentId": "wS6R6GemNlxG",
+									"title": "image.jpg",
+									"role": "image",
+									"mime": "image/jpg",
+									"position": 10,
+									"dataFileName": "2_The Weavebound Accord_imag.jpg"
+								}
+							],
+							"dirFileName": "The Weavebound Accord",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "HW5B81zPGjWv",
+									"notePath": [
+										"RgUxxYAOSk3d",
+										"QY7ZekhQsFga",
+										"pjyIk3SWl3YR",
+										"HW5B81zPGjWv"
+									],
+									"title": "Members",
+									"notePosition": 20,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "pjyIk3SWl3YR",
+											"isInheritable": false,
+											"position": 10
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "8tmob2NcPI2d",
+											"isInheritable": false,
+											"position": 20
+										},
+										{
+											"type": "label",
+											"name": "iconClass",
+											"value": "bx bx-user",
+											"isInheritable": false,
+											"position": 30
+										}
+									],
+									"format": "html",
+									"dataFileName": "Members.html",
+									"attachments": []
+								},
+								{
+									"isClone": false,
+									"noteId": "4pdrz0Q4HDVW",
+									"notePath": [
+										"RgUxxYAOSk3d",
+										"QY7ZekhQsFga",
+										"pjyIk3SWl3YR",
+										"4pdrz0Q4HDVW"
+									],
+									"title": "Documents",
+									"notePosition": 30,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "pjyIk3SWl3YR",
+											"isInheritable": false,
+											"position": 10
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "sWGatux3UBAG",
+											"isInheritable": false,
+											"position": 20
+										}
+									],
+									"format": "html",
+									"dataFileName": "Documents.html",
+									"attachments": [],
+									"dirFileName": "Documents",
+									"children": [
+										{
+											"isClone": false,
+											"noteId": "sWGatux3UBAG",
+											"notePath": [
+												"RgUxxYAOSk3d",
+												"QY7ZekhQsFga",
+												"pjyIk3SWl3YR",
+												"4pdrz0Q4HDVW",
+												"sWGatux3UBAG"
+											],
+											"title": "Seraphyne Vexmoor Dossier",
+											"notePosition": 10,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [
+												{
+													"type": "label",
+													"name": "relation:hasMentionof",
+													"value": "single,inverse=isMentionedIn",
+													"isInheritable": false,
+													"position": 20
+												},
+												{
+													"type": "relation",
+													"name": "hasMentionof",
+													"value": "x58y0lZWU6Nu",
+													"isInheritable": false,
+													"position": 30
+												},
+												{
+													"type": "relation",
+													"name": "isDocumentOf",
+													"value": "pjyIk3SWl3YR",
+													"isInheritable": false,
+													"position": 40
+												},
+												{
+													"type": "label",
+													"name": "relation:isDocumentOf",
+													"value": "single,inverse=hasDocumentof",
+													"isInheritable": false,
+													"position": 10
+												},
+												{
+													"type": "label",
+													"name": "iconClass",
+													"value": "bx bx-spreadsheet",
+													"isInheritable": false,
+													"position": 50
+												},
+												{
+													"type": "relation",
+													"name": "hasAuthor",
+													"value": "8tmob2NcPI2d",
+													"isInheritable": false,
+													"position": 70
+												},
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "8tmob2NcPI2d",
+													"isInheritable": false,
+													"position": 90
+												},
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "x58y0lZWU6Nu",
+													"isInheritable": false,
+													"position": 100
+												},
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "4pdrz0Q4HDVW",
+													"isInheritable": false,
+													"position": 110
+												}
+											],
+											"format": "html",
+											"dataFileName": "Seraphyne Vexmoor Dossier.html",
+											"attachments": []
+										}
+									]
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "vEqMUrGzdt9d",
+							"notePath": [
+								"RgUxxYAOSk3d",
+								"QY7ZekhQsFga",
+								"vEqMUrGzdt9d"
+							],
+							"title": "The Dawn Tribunal",
+							"notePosition": 20,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "nxjHBnYOMhHD",
+									"isInheritable": false,
+									"position": 10
+								},
+								{
+									"type": "label",
+									"name": "iconClass",
+									"value": "bx bx-sun",
+									"isInheritable": false,
+									"position": 20
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "8Mb8L8qxLed0",
+									"isInheritable": false,
+									"position": 30
+								},
+								{
+									"type": "relation",
+									"name": "hasMember",
+									"value": "Ge57Ox25z3GZ",
+									"isInheritable": false,
+									"position": 40
+								},
+								{
+									"type": "relation",
+									"name": "hasDocumentof",
+									"value": "mKYbmaZI0TyM",
+									"isInheritable": false,
+									"position": 50
+								},
+								{
+									"type": "relation",
+									"name": "isFactionOf",
+									"value": "RgUxxYAOSk3d",
+									"isInheritable": false,
+									"position": 60
+								},
+								{
+									"type": "relation",
+									"name": "hasDocumentof",
+									"value": "Va9ZTXhpOMQs",
+									"isInheritable": false,
+									"position": 70
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "QY7ZekhQsFga",
+									"isInheritable": false,
+									"position": 80
+								}
+							],
+							"format": "html",
+							"dataFileName": "The Dawn Tribunal.html",
+							"attachments": [
+								{
+									"attachmentId": "PYcLetTvN86r",
+									"title": "image.jpg",
+									"role": "image",
+									"mime": "image/jpg",
+									"position": 10,
+									"dataFileName": "The Dawn Tribunal_image.jpg"
+								}
+							],
+							"dirFileName": "The Dawn Tribunal",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "nxjHBnYOMhHD",
+									"notePath": [
+										"RgUxxYAOSk3d",
+										"QY7ZekhQsFga",
+										"vEqMUrGzdt9d",
+										"nxjHBnYOMhHD"
+									],
+									"title": "Members",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "iconClass",
+											"value": "bx bx-user",
+											"isInheritable": false,
+											"position": 10
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "vEqMUrGzdt9d",
+											"isInheritable": false,
+											"position": 20
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "Ge57Ox25z3GZ",
+											"isInheritable": false,
+											"position": 30
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "gAOxO8ialGq4",
+											"isInheritable": false,
+											"position": 40
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "FY6sq5zrsRdG",
+											"isInheritable": false,
+											"position": 50
+										}
+									],
+									"format": "html",
+									"dataFileName": "Members.html",
+									"attachments": []
+								},
+								{
+									"isClone": false,
+									"noteId": "8Mb8L8qxLed0",
+									"notePath": [
+										"RgUxxYAOSk3d",
+										"QY7ZekhQsFga",
+										"vEqMUrGzdt9d",
+										"8Mb8L8qxLed0"
+									],
+									"title": "Documents",
+									"notePosition": 20,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "vEqMUrGzdt9d",
+											"isInheritable": false,
+											"position": 10
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "mKYbmaZI0TyM",
+											"isInheritable": false,
+											"position": 20
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "Va9ZTXhpOMQs",
+											"isInheritable": false,
+											"position": 30
+										}
+									],
+									"format": "html",
+									"dataFileName": "Documents.html",
+									"attachments": [],
+									"dirFileName": "Documents",
+									"children": [
+										{
+											"isClone": false,
+											"noteId": "mKYbmaZI0TyM",
+											"notePath": [
+												"RgUxxYAOSk3d",
+												"QY7ZekhQsFga",
+												"vEqMUrGzdt9d",
+												"8Mb8L8qxLed0",
+												"mKYbmaZI0TyM"
+											],
+											"title": "Purge Ledger Entry",
+											"notePosition": 10,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "x58y0lZWU6Nu",
+													"isInheritable": false,
+													"position": 30
+												},
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "8Mb8L8qxLed0",
+													"isInheritable": false,
+													"position": 40
+												},
+												{
+													"type": "label",
+													"name": "iconClass",
+													"value": "bx bx-spreadsheet",
+													"isInheritable": false,
+													"position": 50
+												},
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "Ge57Ox25z3GZ",
+													"isInheritable": false,
+													"position": 60
+												},
+												{
+													"type": "relation",
+													"name": "isDocumentOf",
+													"value": "vEqMUrGzdt9d",
+													"isInheritable": false,
+													"position": 70
+												},
+												{
+													"type": "relation",
+													"name": "hasMentionof",
+													"value": "Ge57Ox25z3GZ",
+													"isInheritable": false,
+													"position": 80
+												},
+												{
+													"type": "relation",
+													"name": "hasMentionof",
+													"value": "x58y0lZWU6Nu",
+													"isInheritable": false,
+													"position": 90
+												}
+											],
+											"format": "html",
+											"dataFileName": "Purge Ledger Entry.html",
+											"attachments": []
+										},
+										{
+											"isClone": false,
+											"noteId": "Va9ZTXhpOMQs",
+											"notePath": [
+												"RgUxxYAOSk3d",
+												"QY7ZekhQsFga",
+												"vEqMUrGzdt9d",
+												"8Mb8L8qxLed0",
+												"Va9ZTXhpOMQs"
+											],
+											"title": "The Sealed Flame Prophecy",
+											"notePosition": 20,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"attributes": [
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "8Mb8L8qxLed0",
+													"isInheritable": false,
+													"position": 10
+												},
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "x58y0lZWU6Nu",
+													"isInheritable": false,
+													"position": 20
+												},
+												{
+													"type": "relation",
+													"name": "internalLink",
+													"value": "gAOxO8ialGq4",
+													"isInheritable": false,
+													"position": 30
+												},
+												{
+													"type": "label",
+													"name": "iconClass",
+													"value": "bx bx-spreadsheet",
+													"isInheritable": false,
+													"position": 40
+												},
+												{
+													"type": "relation",
+													"name": "isDocumentOf",
+													"value": "vEqMUrGzdt9d",
+													"isInheritable": false,
+													"position": 50
+												},
+												{
+													"type": "relation",
+													"name": "hasMentionof",
+													"value": "x58y0lZWU6Nu",
+													"isInheritable": false,
+													"position": 60
+												},
+												{
+													"type": "relation",
+													"name": "hasAuthor",
+													"value": "gAOxO8ialGq4",
+													"isInheritable": false,
+													"position": 70
+												}
+											],
+											"format": "html",
+											"dataFileName": "The Sealed Flame Prophecy.html",
+											"attachments": []
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"noImport": true,
+			"dataFileName": "navigation.html"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "index.html"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "style.css"
+		}
+	]
+}

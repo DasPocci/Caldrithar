@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://daspocci.github.io/Caldrithar/sitemap.xml

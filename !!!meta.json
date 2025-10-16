@@ -136,7 +136,7 @@
 							"title": "Seraphyne Vexmoor",
 							"notePosition": 10,
 							"prefix": null,
-							"isExpanded": false,
+							"isExpanded": true,
 							"type": "text",
 							"mime": "text/html",
 							"attributes": [
@@ -188,6 +188,20 @@
 									"value": "vujfY83hZvrm",
 									"isInheritable": false,
 									"position": 60
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "S5VkH9Ie6k9u",
+									"isInheritable": false,
+									"position": 70
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "BE112o4e20kY",
+									"isInheritable": false,
+									"position": 80
 								}
 							],
 							"format": "html",
@@ -287,7 +301,7 @@
 							"title": "Thornspeaker Vaelith",
 							"notePosition": 20,
 							"prefix": null,
-							"isExpanded": false,
+							"isExpanded": true,
 							"type": "text",
 							"mime": "text/html",
 							"attributes": [
@@ -339,6 +353,13 @@
 									"value": "vujfY83hZvrm",
 									"isInheritable": false,
 									"position": 50
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "gd2HI8kcX0mr",
+									"isInheritable": false,
+									"position": 60
 								}
 							],
 							"format": "html",
@@ -403,7 +424,7 @@
 							"title": "Merek Ardyn",
 							"notePosition": 30,
 							"prefix": null,
-							"isExpanded": false,
+							"isExpanded": true,
 							"type": "text",
 							"mime": "text/html",
 							"attributes": [
@@ -462,6 +483,13 @@
 									"value": "vujfY83hZvrm",
 									"isInheritable": false,
 									"position": 90
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "8bL07zUw6A5X",
+									"isInheritable": false,
+									"position": 100
 								}
 							],
 							"format": "html",
@@ -676,7 +704,7 @@
 					"title": "Factions",
 					"notePosition": 20,
 					"prefix": null,
-					"isExpanded": false,
+					"isExpanded": true,
 					"type": "text",
 					"mime": "text/html",
 					"attributes": [
@@ -725,7 +753,7 @@
 							"title": "The Weavebound Accord",
 							"notePosition": 10,
 							"prefix": null,
-							"isExpanded": false,
+							"isExpanded": true,
 							"type": "text",
 							"mime": "text/html",
 							"attributes": [
@@ -1001,7 +1029,7 @@
 							"title": "The Dawn Tribunal",
 							"notePosition": 20,
 							"prefix": null,
-							"isExpanded": false,
+							"isExpanded": true,
 							"type": "text",
 							"mime": "text/html",
 							"attributes": [

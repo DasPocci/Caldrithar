@@ -602,3 +602,174 @@
 .ck-content .table th{
 	overflow-wrap:break-word;
 }
+
+
+/* === EverForest Ant Dark — final overrides (palette-pure) ===
+   Uses only colors present in your sheet. Bold = #D89EB9 as requested. */
+
+:root{
+  /* convenience aliases from your variables */
+  --bg: var(--background-gray);        /* #1d2021 */
+  --text: var(--text-gray);            /* #dfbf8e */
+  --rule: var(--table-header-gray);    /* #3c3836 */
+  --olive: #b8bb26;                    /* headings / bullets */
+  --link: var(--light-turquoise);      /* #8ec07c */
+}
+
+/* 1) Global surface + body text */
+html, body,
+#content, .content, .main, article, .page, .inner{
+  background: var(--bg) !important;
+  color: var(--text) !important;
+}
+
+/* 2) Headings (olive) */
+h1,h2,h3,h4,h5,h6,
+.ck-content h1,.ck-content h2,.ck-content h3,.ck-content h4,.ck-content h5,.ck-content h6{
+  color: var(--olive) !important;
+  font-weight: 800 !important;
+  letter-spacing: .2px;
+  line-height: 1.15 !important;
+  margin: .6rem 0 .4rem !important;
+}
+
+/* 3) Bold (everywhere) */
+body strong, body b,
+.ck-content strong, .ck-content b{
+  color: #D89EB9 !important;
+  font-weight: 700 !important;
+}
+
+/* 4) Body copy */
+.ck-content, .ck-content p, .ck-content li{
+  color: var(--text) !important;
+  line-height: 1.6;
+}
+
+/* 5) Bullets in olive */
+.ck-content ul{ padding-left: 1.2rem; }
+.ck-content li::marker{
+  color: var(--olive) !important;
+  font-size: 1.1em;
+}
+
+/* 6) Section divider */
+.ck-content hr, hr{
+  height: 2px !important;
+  background: var(--rule) !important;
+  border: 0 !important;
+  opacity: 1 !important;
+  margin: 1rem 0 1.25rem !important;
+}
+
+/* 7) Image captions */
+.ck-content figure.image > figcaption{
+  background: var(--rule) !important;
+  color: var(--sand) !important;        /* #D3C6AA */
+  border: 0 !important;
+  padding: .55rem .8rem !important;
+  font-weight: 600;
+}
+
+/* 8) Preserve natural image aspect ratio */
+.ck-content .image:not(.image_resized) img{
+  width: auto !important;
+  height: auto !important;
+  max-width: 100% !important;
+  object-fit: contain !important;
+}
+
+/* 9) Links keep EverForest green */
+a, a:link, a:visited,
+.ck-content a, .ck-content a:link, .ck-content a:visited{
+  color: var(--link) !important;                  /* #8ec07c */
+  text-decoration-color: rgba(142,192,124,.55);
+}
+a:hover, .ck-content a:hover{
+  color: var(--tan) !important;                   /* #fbf1c7 */
+  text-decoration-thickness: 2px;
+}
+
+/* 10) Neutralize special-case red relative links */
+.ck-content a:not([href^="#"],[href^="https://"],[href^="http://"]){
+  color: var(--link) !important;
+  text-decoration: underline;
+}
+/* === Hard-enforce EverForest core colors (no excuses) === */
+/* You asked for these specifically:
+   background: #1d2021
+   text:       #dfbf8e
+   caption:    #D3C6AA (primary), #dfbf8e (secondary)
+   links:      #8ec07c
+   bold:       #D89EB9
+*/
+
+/* 1) Global background + body text */
+html, body,
+#content, .content, .main, article, .page, .inner {
+  background-color: #1d2021 !important;
+  color: #dfbf8e !important;
+}
+
+/* 2) Base editor text tone stays #dfbf8e */
+.ck-content, .ck-content p, .ck-content li, .ck-content td, .ck-content th {
+  color: #dfbf8e !important;
+}
+
+/* 3) Bold is exactly #D89EB9 */
+b, strong,
+.ck-content b, .ck-content strong {
+  color: #D89EB9 !important;
+  font-weight: 700 !important;
+}
+
+/* 4) Links are exactly #8ec07c, with a softer underline */
+a, a:link, a:visited,
+.ck-content a, .ck-content a:link, .ck-content a:visited {
+  color: #8ec07c !important;
+  text-decoration-color: rgba(142,192,124,.55);
+}
+a:hover, a:focus,
+.ck-content a:hover {
+  color: #fbf1c7 !important; /* uses your tan highlight */
+  text-decoration-thickness: 2px;
+}
+
+/* Neutralize any rule that tries to paint relative links red */
+.ck-content a:not([href^="#"],[href^="https://"],[href^="http://"]) {
+  color: #8ec07c !important;
+  text-decoration: underline;
+}
+
+/* 5) Image captions: dark strip, primary = #D3C6AA, secondary = #dfbf8e */
+.ck-content figure.image > figcaption {
+  background: #3c3836 !important;  /* table-header gray from your theme */
+  color: #D3C6AA !important;       /* primary caption tone */
+  border: 0 !important;
+  padding: .55rem .8rem !important;
+  font-weight: 600;
+}
+.ck-content figure.image > figcaption i,
+.ck-content figure.image > figcaption em,
+.ck-content figure.image > figcaption b,
+.ck-content figure.image > figcaption strong {
+  color: #dfbf8e !important;       /* secondary caption tone */
+}
+
+/* 6) Keep image proportions sane unless explicitly resized in-editor */
+.ck-content .image:not(.image_resized) img {
+  width: auto !important;
+  height: auto !important;
+  max-width: 100% !important;
+  object-fit: contain !important;
+}
+
+/* 7) Optional: headings and bullets match EverForest accents (unchanged palette) */
+.ck-content h2, .ck-content h3, .ck-content h4, .ck-content h5, .ck-content h6,
+h1, h2, h3, h4, h5, h6 {
+  color: #b8bb26 !important;  /* EverForest olive */
+  font-weight: 800 !important;
+  line-height: 1.15 !important;
+}
+.ck-content li::marker { color: #b8bb26 !important; }
+

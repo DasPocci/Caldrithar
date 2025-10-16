@@ -1,11 +1,26 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html>
+<!doctype html>
+<html lang="en">
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8" />
+  <title>Caldrithar</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    html, body { height: 100%; margin: 0; }
+    .layout { display: grid; grid-template-columns: 1fr 3fr; height: 100vh; }
+    nav { padding: 12px; border-right: 1px solid #ccc; }
+    iframe { width: 100%; height: 100%; border: 0; }
+    a { display:block; margin: 6px 0; }
+  </style>
 </head>
-<frameset cols="25%,75%">
-    <frame name="navigation" src="navigation.html">
-    <frame name="detail" src="Caldrithar.html">
-</frameset>
+<body>
+  <div class="layout">
+    <nav>
+      <h1>Caldrithar</h1>
+      <a href="Caldrithar.html" target="detail">Home</a>
+      <a href="navigation.html" target="detail">Index</a>
+      <!-- add more links that target="detail" -->
+    </nav>
+    <iframe name="detail" src="Caldrithar.html" title="Caldrithar content"></iframe>
+  </div>
+</body>
 </html>
